@@ -148,3 +148,26 @@ Tapped 1 command (45 files, 699.6KB).
 ```
 
 </details>
+
+## __5. database 세팅__
+- Root 계정 로그인
+```bash
+sudo mysql -u root -p
+Password: <'컴퓨터 비밀번호'>
+```
+- DataBase 만들기
+```bash
+create database <DB명>;
+```
+- DataBase 확인
+```bash
+show databases;
+```
+- 계정 생성
+```bash
+create user <'유저명'>@<'host주소'['localhost' 또는 '%(외부 접근 가능)']> identified by <'비밀번호'>;
+```
+- 권한 부여
+```bash
+grant <권한> on <DB명>.<테이블명> to <'유저명'>@<'host주소'>
+```
