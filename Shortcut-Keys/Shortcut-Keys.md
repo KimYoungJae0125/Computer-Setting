@@ -10,11 +10,12 @@
 - Command + ⬆️ 또는 ⬇️ : 맨 위/아래로 이동
 - Option + ⬅️ 또는 ➡️ : 앞/뒤 단어로 이동
 
-## 자주 쓰이는 단축키
+## 문서 편집에 자주 쓰이는 단축키
 - Command + Z : 되돌리기
 - Command + X : 오려두기
 - Command + C : 복사
 - Command + V : 붙여넣기
+- Command + S : 저장
 
 ## 화면 닫기
 - Command + W : 현재 보고 있는 화면 닫기(Window : alt + F4)
@@ -22,3 +23,7 @@
 
 ## 화면 잠금
 - Command + Control + Q : 화면 잠금
+
+## 한/영 변환
+- CapsLock : 만약 길게 누를 경우 Window CapsLock키와 동일하게 작동
+- Control + Space
