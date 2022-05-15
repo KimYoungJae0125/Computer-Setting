@@ -1,17 +1,18 @@
 # Java Setting
 
 ## __1. Homebrew 설치__
-- [Homebrew-Setting.md 참고](/Homebrew-Setting/Homebrew-Setting.md)
+> [Homebrew-Setting.md 참고](/Homebrew-Setting/Homebrew-Setting.md)
 
+<br>
 
 ## __2. AdoptOpenjdk 설치__
-```
-https://github.com/AdoptOpenJDK/homebrew-openjdk
-```
+> https://github.com/AdoptOpenJDK/homebrew-openjdk
+
+<br>
 
 ## __3. openjdk 저장소 설치__
 ```bash
-brew tap AdoptOpenJDK/openjdk
+$ brew tap AdoptOpenJDK/openjdk
 ```
 
 <details marakdown="1">
@@ -35,6 +36,7 @@ Resolving deltas: 100% (1424/1424), done.
 Tapped 47 casks (69 files, 522.1KB).
 ```
 </details>
+
 <br>
 
 ## __4. 설치할 자바 버전 확인__
@@ -61,7 +63,7 @@ Tapped 47 casks (69 files, 522.1KB).
 
 ## __5. openjdk 설치__
 ```bash
-brew install --cask <version>
+$ brew install --cask <version>
 ```
 
 <details markdown="1">
@@ -87,12 +89,13 @@ install-time: 1651898674
 ```
 
 </details>
+
 <br>
 
 ## __6. 설치 확인__
 - 입력
 ```bash
-java --version
+$ java --version
 ```
 - 출력
 ```bash

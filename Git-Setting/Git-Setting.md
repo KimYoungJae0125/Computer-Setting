@@ -1,13 +1,13 @@
 # Mac에서 Git 세팅
 
 ## __1. Homebrew 설치__
-- [Homebrew-Setting.md 참고](/Homebrew-Setting/Homebrew-Setting.md)
+> [Homebrew-Setting.md 참고](/Homebrew-Setting/Homebrew-Setting.md)
 
 ## __2. Homebrew를 이용하여 Git 설치__
 ### __2-1. Git Install__
 - 입력
 ```bash
-brew install git
+$ brew install git
 ```
 <details markdown="1">
 <summary>출력</summary>
@@ -77,7 +77,7 @@ Emacs Lisp files have been installed to:
 ### __2-2. 설치 확인__
 - 입력
 ```bash
-git --version
+$ git --version
 ```
 - 출력
 ```bash

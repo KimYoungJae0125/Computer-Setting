@@ -1,16 +1,18 @@
 # Homebrew Setting
 
 ## __1. Homebrew Site__
-```
-https://brew.sh/index_ko
-```
+> https://brew.sh/index_ko
+
+<br>
 
 ## __2. Homebrew Install Command__
 ```bash
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+$ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ==> Checking for `sudo` access (which may request your password)...
-Password: [계정의 Password]
+$ Password: [계정의 Password]
 ```
+
+<br>
 
 ## __3. Homebrew Install Console__
 
@@ -383,7 +385,7 @@ No analytics data has been sent yet (nor will any be during this install run).
 ## __설치 성공__
 - 입력
 ```bash
-brew -v
+$ brew -v
 ```
 - 출력
 ```bash
