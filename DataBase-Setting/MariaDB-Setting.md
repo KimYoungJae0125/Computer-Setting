@@ -177,3 +177,17 @@ $ create user <'유저명'>@<'host주소'['localhost' 또는 '%(외부 접근 �
 ```bash
 $ grant <권한> on <DB명>.<테이블명> to <'유저명'>@<'host주소'>
 ```
+
+> ### 참고) MariaDB 삭제
+> 1. 설치 확인
+> ```shell
+> $ brew services list
+> ```
+> 2. MariaDB 가동 중단
+> ```shell
+> $ brew services stop mariadb
+> ```
+> 3. 삭제하기
+> ```shell
+> $ brew uninstall mariadb
+> ```
