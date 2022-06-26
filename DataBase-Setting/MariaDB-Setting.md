@@ -1,16 +1,16 @@
-# MariaDB Setting
+## MariaDB Setting
 
-## __1. Homebrew 설치__
+### __1. Homebrew 설치__
 > [Homebrew-Setting.md 참고](/Homebrew-Setting/Homebrew-Setting.md)
 
 <br>
 
-## __2. 참고 사이트__
+### __2. 참고 사이트__
 > https://mariadb.com/kb/ko/installing-mariadb-on-macos-using-homebrew/
 
 <br>
 
-## __3. MariaDB 설치__
+### __3. MariaDB 설치__
 ```bash
 $ brew install mariadb
 ```
@@ -130,7 +130,7 @@ Or, if you don't want/need a background service you can just run:
 
 <br>
 
-## __4. mariaDB 시작__
+### __4. mariaDB 시작__
 ```bash
 $ brew services start mariadb
 ```
@@ -155,7 +155,7 @@ Tapped 1 command (45 files, 699.6KB).
 
 <br>
 
-## __5. database 세팅__
+### __5. database 세팅__
 - Root 계정 로그인
 ```bash
 $ sudo mysql -u root -p
