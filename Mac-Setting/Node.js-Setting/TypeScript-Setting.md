@@ -1,7 +1,7 @@
 ## TypeScript Setting
 
 ### __1. Node.js 설치__
-> [Node.js-Setting.md 참고](/Node.js-Setting/Node.js-Setting.md)
+> [Node.js-Setting.md 참고](/Mac-Setting/Node.js-Settinge.js-Setting/Node.js-Setting.md)
 
 <br>
 

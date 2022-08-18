@@ -1,7 +1,7 @@
 # Mac에서 Git 세팅
 
 ## __1. Homebrew 설치__
-> [Homebrew-Setting.md 참고](/Homebrew-Setting/Homebrew-Setting.md)
+> [Homebrew-Setting.md 참고](/Mac-Setting/Homebrew-Settingbrew-Setting/Homebrew-Setting.md)
 
 ## __2. Homebrew를 이용하여 Git 설치__
 ### __2-1. Git Install__

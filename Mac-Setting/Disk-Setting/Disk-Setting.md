@@ -10,23 +10,23 @@
 ## 포맷 변경 과정
 ### **1. <U>디스크 유틸리티 어플 실행**</U>
 #### - ```Lanchpad```에서 디스크 유틸리티 어플을 찾아 실행시킵니다. 
-####  ![Disk-Setting](./images/Disk-Setting-1.png)
+####  ![Disk-Setting](images/Disk-Setting-1.png)
 
 ### **2. <U>지우기 버튼 클릭**</U>
 #### - 지우기 버튼을 클릭합니다.
-#### ![Disk-Setting](./images/Disk-Setting-2.png)
+#### ![Disk-Setting](images/Disk-Setting-2.png)
 
 ### **3. <U>포맷 콤보박스 클릭**</U>
 #### - ```NTFS```라고 써있는 곳을 클릭합니다.
-#### ![Disk-Setting](./images/Disk-Setting-3.png)
+#### ![Disk-Setting](images/Disk-Setting-3.png)
 
 ### **4. <U>```ExFAT``` 포맷 선택**</U>
 #### - 맥과 윈도우를 지원하는 포맷인 ExFAT 포맷을 선택합니다.
-#### ![Disk-Setting](./images/Disk-Setting-4.png)
+#### ![Disk-Setting](images/Disk-Setting-4.png)
 
 ### **5. <U>외장 하드 초기화**</U>
 #### - 포맷 선택을 완료했으면 지우기 버튼을 클릭합니다.
-#### ![Disk-Setting](./images/Disk-Setting-5.png)
+#### ![Disk-Setting](images/Disk-Setting-5.png)
 
 ### <U>**6. 끝**</U>
 #### - 위의 일련의 과정을 거치면 윈도우에서만 쓰기가 가능하던 외장 하드를 맥에서도 쓸 수 있게 됩니다.
